@@ -4,6 +4,7 @@ categories: Introduction
 tags: Appyx
 status: WIP
 authors: Vlad
+url: appyx-codelabs
 
 # Hello World with Appyx
 
