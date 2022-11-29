@@ -5,6 +5,7 @@ tags: Appyx
 status: WIP
 authors: Vlad
 url: appyx-codelabs
+analytics account: UA-153686629-2
 
 # Hello World with Appyx
 
