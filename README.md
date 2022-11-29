@@ -14,15 +14,15 @@ https://bumble-tech.github.io/appyx/
 
 ## Codelabs
 
-### [Hello World with Appyx](https://bumble-tech.github.io/appyx-codelabs/appyx-hello-world)
+### [Hello World with Appyx](https://vladcipariu91.github.io/appyx-codelabs-2/appyx-hello-world)
 
 Learn the basics of Appyx
 
-### [Navigation](https://bumble-tech.github.io/appyx-codelabs/appyx-navigation)
+### [Navigation](https://vladcipariu91.github.io/appyx-codelabs-2/appyx-navigation)
 
-Learn how Appyx navigation works 
+Learn how Appyx navigation works
 
-### [Custom animation](https://bumble-tech.github.io/appyx-codelabs/appyx-custom-animation)
+### [Custom animation](https://vladcipariu91.github.io/appyx-codelabs-2/appyx-custom-animation)
 
 Learn how to unleash powerful transitions
 
