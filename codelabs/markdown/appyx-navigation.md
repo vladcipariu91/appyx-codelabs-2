@@ -4,6 +4,7 @@ categories: Navigation
 tags: Appyx
 status: WIP
 authors: Vlad
+analytics account: UA-153686629-2
 
 # Navigation with Appyx
 
